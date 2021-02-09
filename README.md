@@ -69,4 +69,9 @@ minicomis väljumine: CTRL+A ja X
 
 ## Juhendid
 
-- Getting started with Raspberry Pi Pico C/C++ development with Raspberry Pi Pico and other RP2040-based microcontroller boards.
+- [Getting started with Raspberry Pi Pico](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) C/C++ development with Raspberry Pi Pico and other RP2040-based microcontroller boards.
+- [Raspberry Pi Pico C/C++ SDK](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) Libraries and tools for C/C++ development on RP2040 microcontrollers
+
+ ___
+
+Copyright 2021 Tauno Erik https://taunoerik.art

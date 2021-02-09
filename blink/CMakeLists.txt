@@ -8,8 +8,15 @@ add_executable(blink
   blink.cpp
 )
 
+# Pull in our pico_stdlib which pulls in commonly used features
+target_link_libraries(blink pico_stdlib)
+
 pico_enable_stdio_usb(blink 1)
 pico_enable_stdio_uart(blink 1)
-pico_add_extra_outputs(blink)
 
-target_link_libraries(blink pico_stdlib)
+# create map/bin/hex file etc.
+pico_add_extra_outputs(blink)
+# ELF file (executable linkable format)
+
+# add url via pico_set_program_url
+example_auto_set_url(blink)
