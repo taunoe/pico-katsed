@@ -40,7 +40,7 @@ export PICO_SDK_PATH="/home/taunoerik/pico/pico-sdk"
 
 Valida "Yes" to configure the project. Ja valida **GCC for arm-none-eabi**
 
-## Oma projekti tegemine
+## Oma projekti ehitamine
 
 Tee kataloog pico-sdk kõrvale.
 Failid projektinimi.c või projektinimi.cpp ja CMakeLists.txt fail.
