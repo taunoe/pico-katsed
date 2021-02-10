@@ -1,5 +1,5 @@
 /*
- *  ADC hello Seril
+ *  ADC hello Seril USB
  * 
  *  minicom -b 115200 -o -D /dev/ttyACM0
  *

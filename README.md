@@ -67,6 +67,10 @@ Kasuta (USB kaudu):
 
 minicomis väljumine: CTRL+A ja X
 
+## Resett nupp
+
+![Pico resett button](./img/pico_resett.png)
+
 ## Juhendid
 
 - [Getting started with Raspberry Pi Pico](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) C/C++ development with Raspberry Pi Pico and other RP2040-based microcontroller boards.
