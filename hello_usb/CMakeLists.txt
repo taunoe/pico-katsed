@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 include(pico_sdk_import.cmake)
+
 project(hello_usb_project)
 
 pico_sdk_init()

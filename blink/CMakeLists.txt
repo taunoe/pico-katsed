@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.13)
 
 # Pull in SDK (must be before project)
 include(pico_sdk_import.cmake)
+
 project(blink_project)
 
 pico_sdk_init()
@@ -21,4 +22,4 @@ pico_add_extra_outputs(blink)
 # ELF file (executable linkable format)
 
 # add url via pico_set_program_url
-#example_auto_set_url(blink)
+#auto_set_url(blink)

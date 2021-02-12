@@ -71,6 +71,17 @@ minicomis väljumine: CTRL+A ja X
 
 ![Pico resett button](./img/pico_resett.png)
 
+## Examples
+
+App|Builds
+---|---
+[blink](blink/) | Yes
+[hello_usb](hello_usb/) | Yes
+[cat_laser](cat_laser/) | Not tested
+[adc_hello](adc_hello/) | Yes
+[adc_capture](adc_capture/) | No
+[adc_console](adc_console/) | No
+
 ## Juhendid
 
 - [Getting started with Raspberry Pi Pico](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) C/C++ development with Raspberry Pi Pico and other RP2040-based microcontroller boards.
