@@ -71,16 +71,17 @@ minicomis väljumine: CTRL+A ja X
 
 ![Pico resett button](./img/pico_resett.png)
 
-## Examples
+## Katsed
 
-App|Builds
+Rakendus|Kompileerub
 ---|---
-[blink](blink/) | Yes
-[hello_usb](hello_usb/) | Yes
+[blink](blink/) | Jah
+[hello_usb](hello_usb/) | Jah
 [cat_laser](cat_laser/) | Not tested
-[adc_hello](adc_hello/) | Yes
-[adc_capture](adc_capture/) | No
-[adc_console](adc_console/) | No
+[adc_hello](adc_hello/) | Jah
+[adc_capture](adc_capture/) | Ei
+[adc_console](adc_console/) | Ei
+[joystick_display](joystick_display/) | Jah
 
 ## Juhendid
 
