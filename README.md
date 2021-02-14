@@ -1,4 +1,4 @@
-# Katsed Raspberry Pi pico'ga
+# Katsed Raspberry Pi Pico'ga kasutades C/C++ SDKd.
 
 - Laealla **pico-sdk**
   
@@ -85,6 +85,7 @@ Rakendus|Kompileerub
 [adc_console](adc_console/) | Ei
 [joystick_display](joystick_display/) | Jah
 [7-segment LED display](7segment/) | Jah
+[Pin interrupt](interrupt/) | Jah
 
 ## Juhendid
 
