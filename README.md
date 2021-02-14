@@ -73,6 +73,8 @@ minicomis väljumine: CTRL+A ja X
 
 ## Katsed
 
+https://github.com/raspberrypi/pico-examples
+
 Rakendus|Kompileerub
 ---|---
 [blink](blink/) | Jah
@@ -82,6 +84,7 @@ Rakendus|Kompileerub
 [adc_capture](adc_capture/) | Ei
 [adc_console](adc_console/) | Ei
 [joystick_display](joystick_display/) | Jah
+[7-segment LED display](7segment/) | Jah
 
 ## Juhendid
 
