@@ -73,7 +73,9 @@ minicomis väljumine: CTRL+A ja X
 
 ## Katsed
 
-https://github.com/raspberrypi/pico-examples
+Originaal kood: https://github.com/raspberrypi/pico-examples
+
+Kompilaator: GCC for arm-none-eabi 9.2.1
 
 Rakendus|Kompileerub
 ---|---
@@ -86,6 +88,7 @@ Rakendus|Kompileerub
 [joystick_display](joystick_display/) | Jah
 [7-segment LED display](7segment/) | Jah
 [Pin interrupt](interrupt/) | Jah
+[DHT sensor](dht_sensor/) | jah
 
 ## Juhendid
 
