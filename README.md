@@ -88,7 +88,8 @@ Rakendus|Kompileerub
 [joystick_display](joystick_display/) | Jah
 [7-segment LED display](7segment/) | Jah
 [Pin interrupt](interrupt/) | Jah
-[DHT sensor](dht_sensor/) | jah
+[DHT sensor](dht_sensor/) | jah, aga "Bad data"
+[i2c scanner](i2c_scanner/) |
 
 ## Juhendid
 
