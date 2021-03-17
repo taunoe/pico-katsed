@@ -96,7 +96,7 @@ Rakendus|Kompileerub
 
 - [Getting started with Raspberry Pi Pico](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) C/C++ development with Raspberry Pi Pico and other RP2040-based microcontroller boards.
 - [Raspberry Pi Pico C/C++ SDK](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) Libraries and tools for C/C++ development on RP2040 microcontrollers
-
+- https://www.youtube.com/watch?v=7h6mTR0oNcg
  ___
 
 Copyright 2021 Tauno Erik https://taunoerik.art
